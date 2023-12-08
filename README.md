@@ -133,3 +133,13 @@ BEER_AND_WINE
 FULL_BAR
 }
 ```
+
+## Video Demo
+<div>
+    <a href="https://www.loom.com/share/4e917c053d724db8a78fcef6bdee71ff">
+      <p>DineConnect Demo - December 2023 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/4e917c053d724db8a78fcef6bdee71ff">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4e917c053d724db8a78fcef6bdee71ff-with-play.gif">
+    </a>
+  </div>
