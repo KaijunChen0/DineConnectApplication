@@ -6,28 +6,23 @@
 
 ### Feature 1: Tailor Restaurant Recommendations
 
-When users open our website, our application will offer suggestions for good
-restaurants located near their current location. This feature serves as a quick
-guide to users, especially when they are not familiar with the area. Whether user are exploring their nearby or having special requests, our suggestions help them to make informed decisions swiftly.
+When users open our website, our application will offer suggestions for good restaurants located near their current location. This feature serves as a quick guide to users, especially when they are not familiar with the area. Whether user are exploring their nearby or having special requests, our suggestions help them to make informed decisions swiftly.
 
 ### Feature 2: Interactive Restaurant Engagement
 
- - Restaurant Reviews
+ - Restaurant `Reviews`
 
 	Users can share their dining experiences by posting detailed restaurant reviews. Whether they want to praise exceptional service or provide constructive 		 feedback, their reviews help fellow diners make informed choices.
 
- - Check-Ins
+ - `Check-Ins`
 
-	Users can check in at the restaurants they visit, allowing them to share their
-real-time dining adventures with friends and followers. Checking in also helps users keep track of their culinary explorations.
+	Users can check in at the restaurants they visit, allowing them to share their real-time dining adventures with friends and followers. Checking in also helps users keep track of their culinary explorations.
 
- - Restaurant Promotion Events
+ - Restaurant `Promotion` Events
 
-	For restaurant owners and managers, we provide a platform to create and
-promote special events such as happy hours, themed nights, and exclusive menus.
-Users can easily discover these events and plan their visits accordingly.
+	For restaurant owners and managers, we provide a platform to create and promote special events such as happy hours, themed nights, and exclusive menus. Users can easily discover these events and plan their visits accordingly.
 
- - User-Generated Tips
+ - User-Generated `Tips`
 
 	Our community-driven approach allows users to share insider tips and recommendations with other customers. Whether it's a hidden gem on the menu or the best time to visit, these tips enhance the overall dining experience for everyone.
 
