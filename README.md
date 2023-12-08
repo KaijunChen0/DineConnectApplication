@@ -130,6 +130,13 @@ FULL_BAR
 ```
 
 ## Video Demo
+
+> **`CREATE`** and **`DROP TABLE`** statements in `MySQL`, prioritizing referential integrity.
+> **`SELECT`** statements with functions, joins, aggregation, filtering after aggregation, and ordering to identify insightful questions aligning with our value proposition. 
+> **`JDBC`** for the data access layer and employed **`JSP`** for web application development using `IntelliJ IDEA`, utilizing **`CRUD`** operations on the database. 
+> Implemented the planned features, including tailored restaurant recommendations and interactive engagement features such as `reviews`, `check-ins`, `promotion events`, and user-generated `tips`.
+
+
 <div>
     <a href="https://www.loom.com/share/4e917c053d724db8a78fcef6bdee71ff">
       <p>DineConnect Demo - December 2023 - Watch Video</p>
@@ -138,3 +145,29 @@ FULL_BAR
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4e917c053d724db8a78fcef6bdee71ff-with-play.gif">
     </a>
   </div>
+
+## Data Warehousing
+
+Create **ETL** (Extract, Transform, Load) workflows using `CloverDX Designer` to manipulate and merge various data sources. This process aims to integrate different datasets to yield meaningful and insightful information.
+
+> `Workflow 1`
+
+```mermaid
+flowchart LR
+    id1[(universalDataReader)]
+    id2[(ExSort)]
+    id3[(SpreadsheetDataWriter)]
+    id1 --> id2
+    id2 --> id3
+```
+
+> `Workflow 2`
+
+```mermaid
+flowchart LR
+    id1[(DatabaseReader)]
+    id2[(ExSort)]
+    id3[(SpreadsheetDataWriter)]
+    id1 --> id2
+    id2 --> id3
+```
